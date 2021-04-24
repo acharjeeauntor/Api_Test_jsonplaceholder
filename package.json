@@ -1,0 +1,17 @@
+{
+  "name": "jsonApi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "report.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node report.js"
+  },
+  "keywords": [],
+  "author": "Auntor Acharja",
+  "license": "ISC",
+  "dependencies": {
+    "newman": "^5.2.2",
+    "newman-reporter-htmlextra": "^1.20.3"
+  }
+}
